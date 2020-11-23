@@ -2,7 +2,13 @@
 
 ### Curso ofertado pela Digital Innovation One (DIO).
 
-![](C:\Users\diego\Desktop\codigos\img\paginaInicial.png)
+### ![paginaInicial](C:\Users\diego\Desktop\codigos\img\paginaInicial.png)
+
+
+
+
+
+
 
 
 
