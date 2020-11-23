@@ -1,15 +1,10 @@
 # RECRIANDO A INTERFACE DO NETFLIX
 
-### Curso ofertado pela Digital Innovation One (DIO).
+##### Curso ofertado pela Digital Innovation One (DIO).
 
-### ![paginaInicial](C:\Users\diego\Desktop\codigos\img\paginaInicial.png)
-
-
+![paginaInicial](https://imgur.com/a/7Ke3vTR)
 
 
 
 
-
-
-
-# CloneNetflix
+##### CloneNetflix
